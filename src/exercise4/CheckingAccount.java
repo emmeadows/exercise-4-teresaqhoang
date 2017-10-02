@@ -13,8 +13,8 @@ package exercise4;
 /*******************************************************************************
 
 This class is a subclass of the class Account.  It is intended to represent
-checking accounts, that have a minimum balance.  It inherits all of the instance
-fields of class account, but can not directly access them.  It also inherits the
+checking accounts that have a minimum balance.  It inherits all of the instance
+fields of class account but can not directly access them.  It also inherits the
 operations provided for class account.
 
 Class Variables:
@@ -23,6 +23,6 @@ Class Variables:
 
 Instance Variables:
 		minBalance:  Minimum balance required for the account.
-		balanceFlag:  set to true if the balance drops below the
-			minimum balance.
+		    minBalance can be negative to allow overdraft.
 *******************************************************************************/
+//TODO: Declare the class here
