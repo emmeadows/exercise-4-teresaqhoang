@@ -5,7 +5,6 @@
  * Date:
  * 
  * Purpose: Abstract and concrete classes. Inheritance. Static and non-static members.
- * 
  */
 
 package exercise4;

@@ -26,6 +26,7 @@ Instance Variables:
 //TODO: Declare the class here
 
 
+
 	/*******************************************************************************
 	Constructor for class CheckingAccount. It creates a new instance of the account.
 	To fill the private instance variables inherited from class Account, it invokes
